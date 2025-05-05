@@ -4,6 +4,8 @@ import Hero from './components/Hero.tsx'
 import Committees from './components/Committee.tsx'
 import Events from './components/Events.tsx'
 import About from './components/About.tsx'
+import Testimonials from './components/Testimonials.tsx'
+import Contact from './components/Contact.tsx'
 function App() {
   return (
     <div className="min-h-screen bg-black">
@@ -12,6 +14,8 @@ function App() {
       <Committees />
       <Events />
       <About />
+      <Testimonials />
+      <Contact />
       <Footer />
     </div>
   )
