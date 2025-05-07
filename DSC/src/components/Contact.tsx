@@ -146,8 +146,8 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-medium text-white">Location</h4>
-                    <p className="text-[#9CA3AF]">Campus Building, Room 203</p>
-                    <p className="text-[#9CA3AF]">University Street, City</p>
+                    <p className="text-[#9CA3AF]">Cairo University</p>
+                    {/* <p className="text-[#9CA3AF]">University Street, City</p> */}
                   </div>
                 </div>
               </div>
